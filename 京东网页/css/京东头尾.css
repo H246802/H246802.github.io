@@ -1,0 +1,196 @@
+@charset"UTF-8";
+
+/*公共样式表*/
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.cl{
+    clear: both;
+}
+.col_red{
+    color:red;
+}
+.w{
+    width: 1210px;
+    margin: 0 auto;
+}
+
+/*头部导航样式设置开始*/
+.header{
+    background-color: #f1f1f1;
+    height: 30px;
+}
+.header .special{
+    line-height: 30px;
+    padding-left: 10px;
+    padding-right: 20px;
+    position: relative;
+    top: 0;
+    left: 0;
+
+}
+.header .nav{
+
+}
+.header .nav li{
+    float: left;
+    padding: 0 10px;
+}
+.header .nav li a{
+    line-height: 30px;
+}
+.header .nav li.line{
+    width: 1px;
+    height: 12px;
+    margin-left: 1px;
+    margin-right: 1px;
+    background-color: #ddd;
+    padding: 0;
+    margin-top: 9px;
+}
+.header .nav .special{
+    padding-right: 20px;
+}
+/*尖角样式设置开始*/
+.header .special i{
+    overflow: hidden;
+    height: 6px;
+    width: 12px;
+    position: absolute;
+    top: 13px;
+    right: 5px;
+}
+.header .special i s{
+    line-height: 12px;
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    top: -6px;
+    left: 0;
+}
+.header .special i s:hover{
+    top: 0px;
+}
+/*手机京东样式设置*/
+.header .nav .mobile{
+    padding-left: 25px;
+    position: relative;
+    left: 0;
+    top: 0;
+}
+.header .nav .mobile .mob_img{
+    width: 15px;
+    height: 20px;
+    background: url("../images/sprite.png") no-repeat 0 0;
+    position: absolute;
+    left: 5px;
+    top: 7px;
+}
+/*手机京东样式设置结束*/
+/*头部导航样式设置结束*/
+
+/*banner样式设置开始*/
+.banner{
+    background-color: #8b25c6;
+}
+.banner .first_b{
+    position: relative;
+    left: 0;
+    top: 0;
+}
+.banner .first_b .close_banner{
+    width: 19px;
+    height: 19px;
+    position: absolute;
+    top: 5px;
+    right: 0;
+    background: url("../images/close.png") no-repeat;
+}
+.banner .first_b .close_banner:hover{
+    background: url("../images/close.png") no-repeat 0 bottom;
+}
+/*banner 部分样式设置结束*/
+
+.jd-footer .service .slogen {
+    margin-top: 100px;
+    height: 54px;
+    padding: 20px 0;
+    background-color: #f5f5f5;
+    position: relative;
+    margin-bottom: 15px;
+}
+
+.jd-footer .service .slogen .item {
+    width: 302px;
+    position: absolute;
+    top: 20px;
+    left: 50%;
+}
+
+.jd-footer .service .slogen .slogen1 {
+    margin-left: -608px;
+}
+
+.jd-footer .service .slogen .slogen2 {
+    margin-left: -304px;
+}
+
+.jd-footer .service .slogen .slogen3 {
+    margin-left: 2px;
+}
+
+.jd-footer .service .slogen .slogen4 {
+    margin-left: 304px;
+}
+.jd-footer .service .shopping dl {
+    width: 198px;
+    float: left;
+}
+.jd-footer .service .shopping dt{
+
+}
+.jd-footer .service .shopping .coverage .dt {
+    font-size: 16px;
+    height: 28px;
+    font-family: "微软雅黑";
+    padding-top: 10px;
+}
+.jd-footer .service .shopping  dd {
+    height: 20px;
+}
+.jd-footer .service .shopping .coverage {
+    float: right;
+    width: 210px;
+    height: 165px;
+    background: url(../images/china.png) no-repeat left bottom;
+}
+.jd-footer .service .shopping .coverage .dd {
+    margin-top: 10px;
+}
+.jd-footer .service .shopping .coverage p {
+    line-height: 18px;
+}
+.jd-footer .service .shopping .coverage .looklook {
+    text-align: right;
+    margin-top: 5px;
+}
+
+.jd-footer .againw {
+    border-top: 1px solid #E5E5E5;
+    padding: 23px 0 30px 0;
+    margin-top: 30px;
+    text-align: center;
+}
+.jd-footer .links {
+    height: 25px;
+}
+.jd-footer .links a {
+    padding: 0 6px;
+}
+.copyright {
+    line-height: 18px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>瀑布流</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        #main{
+            position: relative;
+            left: 0;
+            top: 0;
+        }
+        .pin{
+            padding: 15px 0 0 15px;
+            float: left;
+        }
+        .box{
+            padding: 5px;
+            border:  1px solid #cccccc;
+            box-shadow: 0 0  6px #cccccc;
+            border-radius: 5px;
+        }
+        .box img{
+            width: 236px;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+<!--
+(1) 宽度相等,高度不等
+(2) 计算当前排最小高度的那一个,在其下面继续放置照片
+(3) 当前页面图片内容不够显示时候,要继续加载图片
+-->
+<div id="main">
+    <div class="pin">
+        <div class="box">
+            <img src="images/1.jpg" alt=""/>
+        </div>
+    </div>
+    <div class="pin">
+        <div class="box">
+            <img src="images/2.jpg" alt=""/>
+        </div>
+    </div>
+    <div class="pin">
+        <div class="box">
+            <img src="images/3.jpg" alt=""/>
+        </div>
+    </div>
+    <div class="pin">
+        <div class="box">
+            <img src="images/4.jpg" alt=""/>
+        </div>
+    </div>
+    <div class="pin">
+        <div class="box">
+            <img src="images/5.jpg" alt=""/>
+        </div>
+    </div>
+    <div class="pin">
+        <div class="box">
+            <img src="images/6.jpg" alt=""/>
+        </div>
+    </div>
+    <div class="pin">
+        <div class="box">
+            <img src="images/7.jpg" alt=""/>
+        </div>
+    </div>
+    <div class="pin">
+        <div class="box">
+            <img src="images/8.jpg" alt=""/>
+        </div>
+    </div>
+    <div class="pin">
+        <div class="box">
+            <img src="images/9.jpg" alt=""/>
+        </div>
+    </div>
+    <div class="pin">
+        <div class="box">
+            <img src="images/10.jpg" alt=""/>
+        </div>
+    </div>
+    <div class="pin">
+        <div class="box">
+            <img src="images/11.jpg" alt=""/>
+        </div>
+    </div>
+    <div class="pin">
+        <div class="box">
+            <img src="images/12.jpg" alt=""/>
+        </div>
+    </div>
+    <div class="pin">
+        <div class="box">
+            <img src="images/13.jpg" alt=""/>
+        </div>
+    </div>
+    <div class="pin">
+        <div class="box">
+            <img src="images/14.jpg" alt=""/>
+        </div>
+    </div>
+    <div class="pin">
+        <div class="box">
+            <img src="images/15.jpg" alt=""/>
+        </div>
+    </div>
+    <div class="pin">
+        <div class="box">
+            <img src="images/16.jpg" alt=""/>
+        </div>
+    </div>
+    <div class="pin">
+        <div class="box">
+            <img src="images/17.jpg" alt=""/>
+        </div>
+    </div>
+    <div class="pin">
+        <div class="box">
+            <img src="images/18.jpg" alt=""/>
+        </div>
+    </div>
+    <div class="pin">
+        <div class="box">
+            <img src="images/19.jpg" alt=""/>
+        </div>
+    </div>
+    <div class="pin">
+        <div class="box">
+            <img src="images/20.jpg" alt=""/>
+        </div>
+    </div>
+</div>
+<script src="wfs.js"></script>
+</body>
+</html>

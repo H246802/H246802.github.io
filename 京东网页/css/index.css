@@ -1,0 +1,532 @@
+@charset"UTF-8";
+
+/*公共样式表*/
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.cl{
+    clear: both;
+}
+.col_red{
+    color:red;
+}
+.w{
+    width: 1210px;
+    margin: 0 auto;
+}
+
+/*模态视图样式设置开始*/
+#mask{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 999;
+    display: none;
+}
+
+#mask #login_up{
+    width: 400px;
+    height: 250px;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    margin: -125px 0 0 -200px;
+    background-color: #fff;
+    display: none;
+}
+#mask #login_up #close_mask{
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+}
+/*模态视图样式设置结束*/
+/*头部导航样式设置开始*/
+.header{
+    background-color: #f1f1f1;
+    height: 30px;
+}
+.header .special{
+    line-height: 30px;
+    padding-left: 10px;
+    padding-right: 20px;
+    position: relative;
+    top: 0;
+    left: 0;
+
+}
+.header .nav{
+
+}
+.header .nav li{
+    float: left;
+    padding: 0 10px;
+}
+.header .nav li a{
+    line-height: 30px;
+}
+.header .nav li.line{
+    width: 1px;
+    height: 12px;
+    margin-left: 1px;
+    margin-right: 1px;
+    background-color: #ddd;
+    padding: 0;
+    margin-top: 9px;
+}
+.header .nav .special{
+    padding-right: 20px;
+}
+/*尖角样式设置开始*/
+.header .special i{
+    overflow: hidden;
+    height: 6px;
+    width: 12px;
+    position: absolute;
+    top: 13px;
+    right: 5px;
+}
+.header .special i s{
+    line-height: 12px;
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    top: -6px;
+    left: 0;
+}
+.header .special i s:hover{
+    top: 0px;
+}
+/*手机京东样式设置*/
+.header .nav .mobile{
+    padding-left: 25px;
+    position: relative;
+    left: 0;
+    top: 0;
+}
+.header .nav .mobile .mob_img{
+    width: 15px;
+    height: 20px;
+    background: url("../images/sprite.png") no-repeat 0 0;
+    position: absolute;
+    left: 5px;
+    top: 7px;
+}
+/*手机京东样式设置结束*/
+/*头部导航样式设置结束*/
+
+/*banner样式设置开始*/
+.banner{
+
+}
+.banner .first_b{
+    position: relative;
+    left: 0;
+    top: 0;
+}
+.banner .first_b .close_banner{
+    width: 19px;
+    height: 19px;
+    position: absolute;
+    top: 5px;
+    right: 0;
+    background: url("../images/close.png") no-repeat;
+}
+.banner .first_b .close_banner:hover{
+    background: url("../images/close.png") no-repeat 0 bottom;
+}
+/*banner 部分样式设置结束*/
+/*功能部分样式设置开始*/
+.func{
+    margin-top: 25px;
+    /*overflow: hidden;*/
+    height: 60px;
+}
+/*logo部分样式设置开始*/
+.func .logo{
+    
+}
+.func .logo h1{
+    position: relative;
+    left: 0;
+    top: 0;
+}
+.func .logo h1 a{
+    text-indent: -999em;
+    display: block;
+    width: 270px;
+    height: 60px;
+    background: url("../images/logo.png");
+}
+.func .logo h1 .dong{
+    position: absolute;
+    top: -15px;
+    left: 168px;
+}
+/*logo样式设置结束*/
+/*搜索框样式设置开始*/
+.func .search{
+    margin-left: 92px;
+    width: 538px;
+    height: 60px;
+}
+.func .search .text{
+    width: 444px;
+    height: 32px;
+    border:2px solid #b61d1d;
+    border-right: none;
+    float: left;
+    padding-left: 6px;
+}
+.func .search .button{
+    width: 80px;
+    height: 36px;
+    background-color: #b61d1d;
+    font-size: 16px;
+    line-height: 32px;
+    font-family: "Micsoft YaHei";
+    float: left;
+    color: #eee;
+    cursor: pointer;
+}
+.func .search ul{
+    float: left;
+}
+.func .search li{
+    float: left;
+    line-height: 30px;
+    margin-right: 10px;
+}
+/*搜索框样式设置结束*/
+/*购物车样式设置开始*/
+.func .car{
+    margin-left: 105px;
+    width: 110px;
+    height: 14px;
+    padding: 10px 18px;
+    padding-right: 12px;
+    background-color: #f9f9f9;
+    border: 1px solid #dfdfdf;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.func .car .car_img{
+    width: 18px;
+    height: 16px;
+    margin-right: 8px;
+    float: left;
+    background: url(../images/sprite.png) no-repeat 0 -92px;
+}
+.func .car a{
+    line-height: 14px;
+    float: left;
+}
+.func .car .num{
+      height: 14px;
+      width: 16px;
+      background-color: #C81623;
+      line-height: 14px;
+      position: absolute;
+      text-align: center;
+      color: #ffffff;
+      left: 105px;
+      top: -4px;
+      border-radius: 7px 7px 7px 0;
+  }
+.func .car .arrow_r{
+    width: 7px;
+    height: 13px;
+    float: right;
+    font-size: 14px;
+    line-height: 14px;
+    font-family: "SimSun", "宋体";
+}
+/*购物车样式设置结束*/
+/*功能部分样式设置结束*/
+
+/*子导航样式设置开始*/
+.son_nav{
+    margin-top: 15px;
+    overflow: hidden;
+    border-bottom: 2px solid #b1191a;
+}
+.son_nav .product{
+    width: 200px;
+    padding-left: 10px;
+    background-color: #b1191a;
+}
+.son_nav .product a{
+    font: 400 15px/44px "microsoft yahei";
+    color: #ffffff;
+}
+.son_nav .sons ul li{
+    float: left;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.son_nav .sons ul li a{
+    font: 400 16px/44px "microsoft yahei";
+    color: #3a3a3a;
+}
+/*子导航样式设置结束*/
+/*main 区域样式设置开始*/
+/*product_list样式设置开始*/
+.main{
+    /*overflow: hidden;*/
+}
+.main .product_list{
+
+}
+.main .product_list ul{
+}
+.main .product_list ul li{
+    color: white;
+    width: 189px;
+    height: 31px;
+    padding: 0 10px;
+    border-left: 1px solid #b61d1d;
+    background-color: #C81623;
+    position: relative;
+    left: 0;
+    top: 0;
+    /*overflow: hidden;*/
+}
+.main .product_list ul li:hover{
+    /*overflow: visible;*/
+    color:#C81623 ;
+    background-color: #ffffff;
+}
+.main .product_list ul li .item{
+    color: inherit;
+    float: left;
+}
+.main .product_list ul li .item a{
+    color: inherit;
+    font:400 15px/31px "microsoft yahei";
+}
+.main .product_list ul li .arrow_r{
+    float: right;
+    font:400 12px/31px "simsun";
+    color: white;
+}
+/*product_list样式设置结束*/
+/*轮播图样式设置开始*/
+.main .slider{
+    margin: 12px 0 0 10px;
+    position: relative;
+    left: 0;
+    top: 0;
+}
+.main .slider .arrow{
+    width: 730px;
+    font:500 18px/62px "simsun";
+    position: absolute;
+    top:50% ;
+    left : 0;
+    margin-top: -31px;
+}
+.main  .slider  .arrow_l{
+    float: left;
+    width: 28px;
+    height: 62px;
+    text-align: center;
+    background-color: rgba(0,0,0,0.2); /*alpha:透明度*/
+}
+.main  .slider .arrow_r{
+    float: right;
+    width: 28px;
+    height: 62px;
+    text-align: center;
+    background-color: rgba(0,0,0,0.2); /*alpha:透明度*/
+}
+.main .slider .circles{
+    position: absolute;
+    bottom: 8px;
+    left: 50%;
+    margin-left: -66px;
+}
+.main .slider .circles ul li{
+    float: left;
+}
+.main .slider .circles ul li a{
+    display: block;
+    width: 18px;
+    height: 18px;
+    background-color: #3e3e3e;
+    border-radius: 50%;
+    line-height: 18px;
+    color: white;
+    text-align: center;
+    margin: 0 2px;
+}
+/*轮播图区域样式设置结束*/
+/*信息区域样式设置开始*/
+/*京东快报区域样式设置开始*/
+.info{
+    width: 248px;
+    height: 451px;
+    border:1px solid #e4e4e4 ;
+    float: right;
+    margin-top: 12px;
+}
+.info .news{
+
+}
+.info .news .dt{
+    overflow: hidden;
+    padding: 0px 15px 0px 15px;
+    border-bottom: 1px dotted #e4e4e4;
+}
+.info .news .dt h3{
+    float: left;
+    font:900 16px/43px "microsoft yahei";
+}
+.info .news .dt a{
+    float: right;
+    font:400 13px/43px "microsoft yahei";
+}
+.info .news .dd{
+    padding:0 15px 8px 15px;
+    border-bottom: 1px dashed #e4e4e4;
+
+}
+.info .news .dd ul li{
+    line-height: 28px;
+}
+.info .news .dd ul li span{
+    font-weight: 900;
+}
+.info .lifeserve{
+    width: 248px;
+    height: 251px;
+    overflow: hidden;
+}
+.info .lifeserve .dt{
+    height: 42px;
+    border-bottom: 1px dotted #e4e4e4;
+}
+.info .lifeserve .dt h3{
+    font:400 14px/42px "microsoft yahei";
+    padding-left: 15px;
+    color: #666666;
+}
+.info .lifeserve ul{
+    width: 252px;
+    /*height: 300px;*/
+}
+.info .lifeserve ul li{
+    float: left;
+    width: 62px;
+    height: 71px;
+    border: 1px solid #e4e4e4;
+    border-top: none;
+    margin-left: -1px;
+}
+.info .lifeserve ul li a{
+    display: block;
+    width: 45px;
+    height: 32px;
+    padding-top: 40px;
+    position: relative;
+    left: 0;
+    top: 0;
+    padding-left: 17px;
+}
+.info .lifeserve ul li a .sprite{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 12px;
+    left: 18px;
+    background: url("../images/icon_lifeserv.png") no-repeat -25px 0;
+}
+/*main区域样式设置结束*/
+.jd-footer .service .slogen {
+    margin-top: 100px;
+    height: 54px;
+    padding: 20px 0;
+    background-color: #f5f5f5;
+    position: relative;
+    margin-bottom: 15px;
+}
+
+.jd-footer .service .slogen .item {
+    width: 302px;
+    position: absolute;
+    top: 20px;
+    left: 50%;
+}
+
+.jd-footer .service .slogen .slogen1 {
+    margin-left: -608px;
+}
+
+.jd-footer .service .slogen .slogen2 {
+    margin-left: -304px;
+}
+
+.jd-footer .service .slogen .slogen3 {
+    margin-left: 2px;
+}
+
+.jd-footer .service .slogen .slogen4 {
+    margin-left: 304px;
+}
+.jd-footer .service .shopping dl {
+    width: 198px;
+    float: left;
+}
+.jd-footer .service .shopping dt{
+
+}
+.jd-footer .service .shopping .coverage .dt {
+    font-size: 16px;
+    height: 28px;
+    font-family: "微软雅黑";
+    padding-top: 10px;
+}
+.jd-footer .service .shopping  dd {
+    height: 20px;
+}
+.jd-footer .service .shopping .coverage {
+    float: right;
+    width: 210px;
+    height: 165px;
+    background: url(../images/china.png) no-repeat left bottom;
+}
+.jd-footer .service .shopping .coverage .dd {
+    margin-top: 10px;
+}
+.jd-footer .service .shopping .coverage p {
+    line-height: 18px;
+}
+.jd-footer .service .shopping .coverage .looklook {
+    text-align: right;
+    margin-top: 5px;
+}
+
+.jd-footer .againw {
+    border-top: 1px solid #E5E5E5;
+    padding: 23px 0 30px 0;
+    margin-top: 30px;
+    text-align: center;
+}
+.jd-footer .links {
+    height: 25px;
+}
+.jd-footer .links a {
+    padding: 0 6px;
+}
+.copyright {
+    line-height: 18px;
+    margin-bottom: 10px;
+}
