@@ -1,0 +1,263 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+a{
+    text-decoration: none;
+}
+.ml{
+    margin-left: 20px;
+}
+.dsn{
+    display: none;
+}
+
+/*头文件开始*/
+.heard{
+    height: 73px;
+    width: 100%;
+}
+.heard .content{
+    width: 960px;
+    height: 71px;
+    padding-top: 2px;
+    font: 12px/18px 宋体, Arial, Helvetica, sans-serif;
+    color: #404040;
+    margin: 0 auto;
+    text-align: center;
+    border-bottom: 3px solid orangered;
+
+}
+.heard .content .nav{
+    width: 788px;
+    height: 21px;
+}
+.heard .content .nav ul{
+    list-style: none;
+}
+.heard .content .nav ul li{
+    float: right;
+    margin-left: 10px;
+}
+/*登录框*/
+.zhong{
+    width: 940px;
+    margin: 0 auto;
+    box-shadow: #eeeeee -10px 10px;
+}
+.zhong .denglu{
+    margin-top: 20px;
+    width: 960px;
+    position: relative;
+    padding-bottom: 40px;
+}
+.zhong .denglu .nav{
+    width: 930px;
+    height: 75px;
+    margin: 0 auto;
+    position: relative;
+    border-bottom: 1px solid #ECEEF2;
+}
+.zhong .denglu .nav .zhu{
+    height: 46px;
+    width: 137px;
+    text-align: center;
+    line-height: 47px;
+    font-size: 16px;
+    position: absolute;
+    left: 20px;
+    bottom: 0px;
+    border: 1px solid #ECEEF2;
+}
+.zhong .denglu .nav .zhu1{
+    height: 46px;
+    width: 137px;
+    text-align: center;
+    line-height: 47px;
+    font-size: 16px;
+    position: absolute;
+    left: 167px;
+    bottom: 0px;
+    border: 1px solid #ECEEF2;
+}
+.zhong .denglu .nav .zhu2{
+    font-size: 12px ;
+    position: absolute;
+    color: black;
+    right: 80px;
+    bottom: 18px;
+}
+.zhong .denglu .nav .zhu3{
+    font-size: 12px ;
+    position: absolute;
+    color: black;
+    right: 20px;
+    bottom: 18px;
+}
+/*.zhong .denglu .geren{
+    display: none;
+}*/
+.zhong .denglu .biao{
+    margin-top: 20px;
+}
+.zhong .denglu .biao .t{
+    font-size: 14px;
+    width: 338px;
+    padding-right: 10px;
+    text-align: right;
+    vertical-align: top;
+    color: #646464;
+    padding-top: 8px;
+    font-family: "Microsoft YaHei";
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.zhong .denglu .biao .text{
+    border: 1px solid #E6E6E6;
+    font-family: "Microsoft YaHei";
+    height: 18px;
+    float: left;
+    width: 290px;
+    margin-right: 10px;
+    padding: 9px 10px;
+    line-height: 18px;
+    outline: 0px none;
+    border-radius: 2px;
+    color: #333;
+}
+
+.zhong .denglu  .btn{
+    display: inline-block;
+    font-size: 20px;
+    border: 0px none;
+    width: 178px;
+    height: 44px;
+    line-height: 44px;
+    cursor: pointer;
+    text-align: center;
+    background-color: #FF2832;
+    color: #FFF;
+    border-radius: 22px;
+    margin-left: 50px;
+}
+/*企业*/
+/*.zhong .denglu .gongsi{
+    display: none;
+}*/
+.zhong .denglu .qiye{
+    padding-top: 10px;
+    text-align: center;
+}
+.zhong .denglu .wenzi{
+    position: absolute;
+    top: 281px;
+    width: 100%;
+    text-align: center;
+    line-height: 43px;
+    font-family: 微软雅黑;
+    font-size: 16px;
+    color: #969696;
+    height: 44px;
+}
+.zhong .denglu .zhanghu{
+    width: 19px;
+    height: 21px;
+    position: absolute;
+    top: 310px;
+    margin: 12px 187px;
+}
+.zhong .denglu .zhanghu  p{
+    width: 122px;
+    margin: 8px 33px;
+    font-size: 15px;
+    font-weight: 600;
+}
+.zhong .denglu .body{
+    padding: 10px 0 25px;
+    position: relative;
+    top: 50px;
+}
+.zhong .denglu .body .t{
+    font-size: 14px;
+    width: 338px;
+    padding-right: 10px;
+    text-align: right;
+    vertical-align: top;
+    color: #646464;
+    padding-top: 8px;
+    font-family: "Microsoft YaHei";
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.zhong .denglu .body .text{
+    display: inline-block;
+    font: 12px/18px 'Microsoft YaHei';
+    height: 18px;
+    width: 289px;
+    margin-right: 10px;
+    padding: 5px 10px;
+    outline: 0 none;
+    border-radius: 2px;
+    color: #969696;
+}
+.zhong .denglu .body input[type=text]{
+    margin-top: 13px;
+    width: 200px;
+    height: 25px;
+}
+.zhong .denglu .body .qiyexingxi p{
+    width: 122px;
+    margin: 8px 220px;
+    font-size: 15px;
+    font-weight: 600;
+}
+    /*尾部开始*/
+.footer{
+    width: 100%;
+    margin: 0px auto;
+    font: 12px "宋体",Arial,Helvetica,sans-serif;
+    clear: both;
+}
+.footer .footer-box{
+    margin: 0px auto;
+    width: 950px;
+    padding: 32px 5px 0px;
+    color: #666;
+}
+.footer .footer-box  .footer_cop{
+    padding-left: 78px;
+    margin: 0px auto;
+    width: 792px;
+}
+.footer .footer-box  .footer_icon{
+    margin: 10px 0 0 335px;
+    width: 300px;
+    height: 57px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
