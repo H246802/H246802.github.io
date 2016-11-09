@@ -3315,7 +3315,7 @@
 <!-- 全部商品分类 隐藏与否-->
 <script>
     var details = document.getElementsByClassName("detail");
-    console.log(details);
+//    console.log(details);
     $(function () {
         $(".product_list .must").mouseenter(function () {
             var $index = $(this).index();
@@ -3324,9 +3324,9 @@
 
         });
         $(".product_list").mouseover(function () {
-            console.log("eee");
+//            console.log("eee");
         }).mouseleave(function () {
-            console.log("sss");
+//            console.log("sss");
             $(".product_list .must").siblings("#hover").removeAttr("id");
             $(".product_list .detail").siblings(".product_list .detail").removeAttr("id");
         })
