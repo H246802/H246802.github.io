@@ -39,9 +39,7 @@ body{
     text-align: center;
     background-color: #242424;
 }
-#site-aside .aside-head{
-    margin-bottom: 50px;
-}
+
 #site-aside .aside-head .name{
     font-size: 28px;
     line-height: 2.0;
@@ -76,7 +74,7 @@ body{
 #site-aside .aside-content .skills{
   /*  border-top: 2px solid #c8c8c8;
     border-bottom: 2px solid #c8c8c8;*/
-    padding: 82px 0 57px;
+    padding: 82px 0 40px;
 }
 #site-aside .aside-content .skills dt{
     width: 30%;
