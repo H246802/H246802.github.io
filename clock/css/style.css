@@ -1,0 +1,192 @@
+body{
+    margin:0;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background: radial-gradient(circle, #EEEFE7, #655e5d);
+}
+
+/* 表盘外部 */
+.outside{
+    position:relative;
+    /*  border:1px solid;  */
+    filter:drop-shadow(0 8px 5px #343434);
+}
+
+.outside > .dot2{
+    position:absolute;
+    background:#EEEFE7;
+    left:105px;
+    top:-180px;
+    width:13px;
+    height:13px;
+    border-radius:50%;
+    box-shadow:0 -1px 4px 2px #525252 inset;
+}
+
+.outside > .rope_left{
+    position:absolute;
+    background:#EEEFE7;
+    left:21px;
+    top:-120px;
+    width:115px;
+    height:3px;
+    transform:rotate(-60deg);
+    box-shadow: 0 1px 1px #d6cdcb inset;
+}
+
+.outside > .rope_right{
+    position:absolute;
+    background:#EEEFE7;
+    left:86px;
+    top:-120px;
+    width:115px;
+    height:3px;
+    transform:rotate(60deg);
+    box-shadow: 0 1px 1px #d6cdcb inset;
+}
+
+
+/* 表盘数字 */
+
+.clock{
+    min-width:220px;
+    min-height:220px;
+    background:#F0F1E9;
+    border:1px solid transparent;
+    border-radius:50%;
+    position:relative;
+    box-shadow:0 23px 30px #545454;
+
+}
+
+.clock::before{
+    position:absolute;
+    left:-1px;
+    top:-1px;
+    width:222px;
+    height:222px;
+    border-radius:50%;
+    content:'';
+    box-shadow:0 -3px 5px #c1b8b6 inset;
+}
+
+.clock > .number{
+    font-size:25px;
+    color:#999999;
+}
+
+.clock .number12{
+    position:absolute;
+    top:3px;
+    left:96px;
+}
+
+.clock .number3{
+    position:absolute;
+    right:9px;
+    top:93px;
+}
+
+.clock .number6{
+    position:absolute;
+    bottom:3px;
+    left:105px;
+}
+
+.clock .number9{
+    position:absolute;
+    top:93px;
+    left:9px;
+}
+
+/* 表盘内部 */
+
+.clock > .inner_circle{
+    width:140px;
+    height:140px;
+    border:1px solid transparent;
+    border-radius:50%;
+    position:absolute;
+    left:40px;
+    top:40px;
+    background:#F0F1E9;
+    box-shadow:0 15px 40px #ebece2 inset;
+}
+
+/*.clock > .pointer div{
+  transition:all 0.5s;
+  transition-timing-function:cubic-bezier(0.1,2.5,0.58,1);
+}*/
+
+.clock > .pointer > .shadow{
+    filter:drop-shadow(4px 4px 2px #888888)
+}
+
+.clock > .pointer .hour_hand{
+    position:absolute;
+    top:65px;
+    left:105px;
+    width: 3px;
+    border-bottom: 60px solid #68645C;
+    border-right: 4px solid transparent;
+    border-left: 4px solid transparent;
+    border-radius:3px;
+    transform-origin:50% 45px;
+}
+
+.clock >.pointer .minute_hand{
+    position:absolute;
+    top:30px;
+    left:105px;
+    width: 3px;
+    border-bottom: 95px solid #68645C;
+    border-right: 4px solid transparent;
+    border-left: 4px solid transparent;
+    border-radius:3px;
+    transform-origin:50% 80px;
+    transform:rotate(-70deg);
+
+}
+
+.clock > .pointer .second_hand{
+    position:absolute;
+    left:50%;
+    top:30px;
+    border:1px solid #E97B65;
+    height:100px;
+    transform-origin:50% 80px;
+    transform:rotate(70deg)
+}
+
+.clock > .pointer >.dot1{
+    position:absolute;
+    background:#EEEFE7;
+    /* border:2px solid #EEEFE7; */
+    border-radius:50%;
+    width:10px;
+    height:10px;
+    left:106px;
+    top:105px;
+    box-shadow:0 -2px 4px #242323 inset;
+}
+
+/* 底部信息 */
+
+.information{
+    position:relative;
+}
+
+.information > .ui{
+    margin:0;
+    position:absolute;
+    white-space: pre;
+    font-family: monospace;
+    font-size: 14px;
+    top:210px;
+    left:-63px;
+    text-shadow:1px 3px 3px #898582;
+    color:#3C3C3C;
+    text-align: center;
+}
