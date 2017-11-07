@@ -2,662 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea6bd94c-822e-441d-8daf-401b2770853b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/仿联想商城/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/仿联想商城/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/仿联想商城/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/仿联想商城/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/仿联想商城/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/仿联想商城/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/仿联想商城/.idea/联想整体网页.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/图片无限加载/img/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/图片无限加载/img/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/图片无限加载/img/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/图片无限加载/img/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/图片无限加载/img/4 .jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/图片无限加载/img/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/图片无限加载/img/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/图片无限加载/img/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/图片无限加载/img/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/图片无限加载/img/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/图片无限加载/瀑布流2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/瀑布流/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/瀑布流/.idea/dictionaries/Administrator.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/瀑布流/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/瀑布流/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/瀑布流/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/瀑布流/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/瀑布流/.idea/瀑布流.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/.idea/当当.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/css/base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/css/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/1004-yp-C.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/20160.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/53840019071255_1_o.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/DDlogoNEW.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/anquanri.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/apple1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/arrow-b.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/car.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/cs/b_12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/cs/cs1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/cs/cs10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/cs/cs11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/cs/cs12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/cs/cs13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/cs/cs14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/cs/cs2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/cs/cs3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/cs/cs4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/cs/cs5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/cs/cs6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/cs/cs7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/cs/cs8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/cs/cs9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/cywj/cywj1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/cywj/cywj2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/dangdangdushu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/dangshou.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/ddyx/ddyx1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/ddyx/ddyx2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/ddyx/ddyx3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/ddyx/ddyx4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/ddyx/ddyx5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/ddyx/ddyx6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/ddyx/ddyx7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/ddyx/ddyx8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/ddyx/ddyx9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/deatil4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/detail1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/detail10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/detail11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/detail12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/detail13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/detail14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/detail15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/detail2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/detail3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/detail4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/detail5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/detail6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/detail7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/detail8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/detail9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/dianqi1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/dianqi2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/dianqi3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/dianqi4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/fix_box_icon_160622.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/footer_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/head_sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/home_bg_1509.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/home_sprite2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/home_sprite_1507.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/info.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/kxwl.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/li_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/li_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/li_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/li_4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/lo1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/lo2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/lo3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/lo4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/lower5_li_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/lower5_li_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/lower5_li_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/lower5_li_4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/lower5_li_5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/luoli1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/luoli2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/luoli3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/mobileapp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/nike.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/qixie1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/qixie2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/qixie3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/qixie4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/qixie5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/ry1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/ry2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/ry3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/ry4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/shangbiao.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/shangbiao2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/shehh.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/sidebar_app.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/sidebar_icon_411.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/siderbar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/slider1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/slider101.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/slider2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/slider3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/slider4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/slider5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/slider6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/slider7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/slider8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/sprite_ad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/sprite_tj.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/ts/ts0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/ts/ts1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/ts/ts2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/ts/ts3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/ts/ts4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/ts/ts5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/ts/ts6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/ts/ts7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/ts/ts8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/ts/tushu111.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/ts/tushu222.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/ts/tushu333.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/ts/tushu444.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/uppper_li_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/uppper_li_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/uppper_li_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/validate.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/weblogo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/wph/wph0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/wph/wph1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/wph/wph10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/wph/wph11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/wph/wph12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/wph/wph2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/wph/wph3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/wph/wph4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/wph/wph5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/wph/wph6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/wph/wph7-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/wph/wph7-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/wph/wph7-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/wph/wph7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/wph/wph7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/wph/wph8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/wph/wph9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/xiaohai1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/xiaohai2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/xiaohai3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/xiaohai4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/xiaohai5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/yingerlunbo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/yun1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/yun2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/yun3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/zonghetu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/zy-bq.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/zy2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/zy3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/zy4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/zzd/wph0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/zzd/zzd0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/zzd/zzd1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/zzd/zzd1.jpg6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/zzd/zzd10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/zzd/zzd2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/zzd/zzd3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/zzd/zzd4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/zzd/zzd5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/zzd/zzd6-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/zzd/zzd6-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/zzd/zzd6-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/zzd/zzd6-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/zzd/zzd7-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/zzd/zzd7-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/zzd/zzd7-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/zzd/zzd8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/zzd/zzd9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/images/zzd/zzz00.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/login/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/login/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/login/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/login/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/login/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/login/.idea/当当网登录.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/login/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/login/connect.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/login/images/captch_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/login/images/dang.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/login/images/footer_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/login/images/icon_20150706.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/login/images/kxwl.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/login/images/login_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/login/images/login_pic.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/login/images/logo_login.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/login/images/more_arr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/login/images/new_tip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/login/images/show.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/login/images/validate.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/login/login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/login/login.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/login/redirect.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/.idea/当当.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/connect.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/css/base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/css/zhuce.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/DDlogoNEW.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/arrow-b.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/car.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/dang.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/dangshou.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/ddnewhead_logo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/fix_box_icon_160622.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/footer_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/head_sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/home_sprite2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/home_sprite_1507.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/info.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/login_qiye4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/renz.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/slider1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/slider101.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/slider2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/slider3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/slider4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/slider5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/slider6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/slider7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/slider8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/sprite_ad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/sprite_tj.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/images/validate.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/regsiter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/dangdang/regsiter/zhuce.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/n/ajaxMod.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/n/forClass.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/n/form.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/n/reg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/n/userName.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/登录框/设计稿.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/豆瓣电影/.idea/dictionaries/wenyuan.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/豆瓣电影/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/豆瓣电影/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/豆瓣电影/.idea/myDouban.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/豆瓣电影/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/豆瓣电影/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/dist/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/dist/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/dist/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/dist/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/dist/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/dist/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/dist/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/dist/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/dist/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/dist/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/dist/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3D旋转/3D旋转.html" afterPath="$PROJECT_DIR$/rotate/rotate.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3D旋转/images/jay2jpg.jpg" afterPath="$PROJECT_DIR$/rotate/images/jay2jpg.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3D旋转/images/jay3.jpg" afterPath="$PROJECT_DIR$/rotate/images/jay3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3D旋转/images/jay4.jpg" afterPath="$PROJECT_DIR$/rotate/images/jay4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3D旋转/images/kisum1.jpg" afterPath="$PROJECT_DIR$/rotate/images/kisum1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3D旋转/images/tara1.jpg" afterPath="$PROJECT_DIR$/rotate/images/tara1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3D旋转/images/雪炫1.jpg" afterPath="$PROJECT_DIR$/rotate/images/雪炫1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/css/base.css" afterPath="$PROJECT_DIR$/jd/css/base.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/css/index.css" afterPath="$PROJECT_DIR$/jd/css/index.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/css/京东头尾.css" afterPath="$PROJECT_DIR$/jd/css/京东头尾.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/favicon.ico" afterPath="$PROJECT_DIR$/jd/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/1.jpg" afterPath="$PROJECT_DIR$/jd/images/1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/2.jpg" afterPath="$PROJECT_DIR$/jd/images/2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/3.jpg" afterPath="$PROJECT_DIR$/jd/images/3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/4.jpg" afterPath="$PROJECT_DIR$/jd/images/4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/banner.jpg" afterPath="$PROJECT_DIR$/jd/images/banner.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/bike.jpg" afterPath="$PROJECT_DIR$/jd/images/bike.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/china.png" afterPath="$PROJECT_DIR$/jd/images/china.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/close.png" afterPath="$PROJECT_DIR$/jd/images/close.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/dong.gif" afterPath="$PROJECT_DIR$/jd/images/dong.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/icon_lifeserv.png" afterPath="$PROJECT_DIR$/jd/images/icon_lifeserv.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/logo.png" afterPath="$PROJECT_DIR$/jd/images/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/mess.png" afterPath="$PROJECT_DIR$/jd/images/mess.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/mess2.png" afterPath="$PROJECT_DIR$/jd/images/mess2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/mess3.png" afterPath="$PROJECT_DIR$/jd/images/mess3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/mess4.png" afterPath="$PROJECT_DIR$/jd/images/mess4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/mess5.png" afterPath="$PROJECT_DIR$/jd/images/mess5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/mian.png" afterPath="$PROJECT_DIR$/jd/images/mian.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/new.jpg" afterPath="$PROJECT_DIR$/jd/images/new.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/night.jpg" afterPath="$PROJECT_DIR$/jd/images/night.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/slider1.jpg" afterPath="$PROJECT_DIR$/jd/images/slider1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/slogen1.png" afterPath="$PROJECT_DIR$/jd/images/slogen1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/slogen2.png" afterPath="$PROJECT_DIR$/jd/images/slogen2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/slogen3.png" afterPath="$PROJECT_DIR$/jd/images/slogen3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/slogen4.png" afterPath="$PROJECT_DIR$/jd/images/slogen4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/song.png" afterPath="$PROJECT_DIR$/jd/images/song.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/sprite.png" afterPath="$PROJECT_DIR$/jd/images/sprite.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/images/topbanner.jpg" afterPath="$PROJECT_DIR$/jd/images/topbanner.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/index.html" afterPath="$PROJECT_DIR$/jd/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/京东网页/京东.jpg" afterPath="$PROJECT_DIR$/jd/京东.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/css/base.css" afterPath="$PROJECT_DIR$/Lenovo/css/base.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/css/content.css" afterPath="$PROJECT_DIR$/Lenovo/css/content.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/css/footer.css" afterPath="$PROJECT_DIR$/Lenovo/css/footer.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/css/header.css" afterPath="$PROJECT_DIR$/Lenovo/css/header.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/css/register_login.css" afterPath="$PROJECT_DIR$/Lenovo/css/register_login.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/1f_1.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/1f_1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/1f_2.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/1f_2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/1f_3.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/1f_3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/1f_4.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/1f_4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/1f_5.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/1f_5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/1f_6.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/1f_6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/1f_7.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/1f_7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/1f_8.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/1f_8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/1f_big.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/1f_big.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/2f_1.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/2f_1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/2f_2.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/2f_2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/2f_3.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/2f_3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/2f_4.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/2f_4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/2f_5.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/2f_5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/2f_6.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/2f_6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/2f_7.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/2f_7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/2f_8.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/2f_8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/2f_big.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/2f_big.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/3f_1.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/3f_1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/3f_2.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/3f_2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/3f_3.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/3f_3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/3f_4.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/3f_4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/3f_5.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/3f_5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/3f_6.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/3f_6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/3f_7.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/3f_7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/3f_8.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/3f_8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/3f_big.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/3f_big.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/4f_1.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/4f_1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/4f_2.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/4f_2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/4f_3.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/4f_3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/4f_4.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/4f_4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/4f_5.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/4f_5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/4f_6.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/4f_6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/4f_7.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/4f_7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/4f_8.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/4f_8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/4f_big.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/4f_big.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/5f_1.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/5f_1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/5f_2.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/5f_2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/5f_3.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/5f_3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/5f_4.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/5f_4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/5f_5.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/5f_5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/5f_6.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/5f_6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/5f_7.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/5f_7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/5f_8.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/5f_8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/5f_9.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/5f_9.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/5f_big.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/5f_big.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/content1.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/content1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/content2.png" afterPath="$PROJECT_DIR$/Lenovo/images/content2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/content3.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/content3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/content4.png" afterPath="$PROJECT_DIR$/Lenovo/images/content4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/content5.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/content5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/content6.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/content6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/f6_1.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/f6_1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/f6_2.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/f6_2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/f6_3.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/f6_3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/f6_4.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/f6_4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/f6_5.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/f6_5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/f6_6.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/f6_6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/foot1.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/foot1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/iPhone_icon.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/iPhone_icon.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/icon.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/icon.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/jiling.png" afterPath="$PROJECT_DIR$/Lenovo/images/jiling.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/jingling.png" afterPath="$PROJECT_DIR$/Lenovo/images/jingling.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/like_1.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/like_1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/like_2.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/like_2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/like_3.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/like_3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/like_4.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/like_4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/like_5.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/like_5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/like_6.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/like_6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/lou.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/lou.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/qq.png" afterPath="$PROJECT_DIR$/Lenovo/images/qq.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/search.png" afterPath="$PROJECT_DIR$/Lenovo/images/search.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/sina.png" afterPath="$PROJECT_DIR$/Lenovo/images/sina.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/star_1.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/star_1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/star_10.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/star_10.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/star_11.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/star_11.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/star_12.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/star_12.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/star_2.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/star_2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/star_3.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/star_3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/star_4.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/star_4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/star_5.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/star_5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/star_6.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/star_6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/star_7.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/star_7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/star_8.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/star_8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/star_9.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/star_9.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/today_1.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/today_1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/today_2.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/today_2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/today_3.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/today_3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/today_4.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/today_4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/today_5.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/today_5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/today_6.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/today_6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/today_7.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/today_7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/today_8.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/today_8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/today_recommend.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/today_recommend.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/wc.png" afterPath="$PROJECT_DIR$/Lenovo/images/wc.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/yanzhengma0.png" afterPath="$PROJECT_DIR$/Lenovo/images/yanzhengma0.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/yanzhengma1.png" afterPath="$PROJECT_DIR$/Lenovo/images/yanzhengma1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/yanzhengma2.png" afterPath="$PROJECT_DIR$/Lenovo/images/yanzhengma2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/yanzhengma3.png" afterPath="$PROJECT_DIR$/Lenovo/images/yanzhengma3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/yanzhengma4.png" afterPath="$PROJECT_DIR$/Lenovo/images/yanzhengma4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/yanzhengma5.png" afterPath="$PROJECT_DIR$/Lenovo/images/yanzhengma5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/yanzhengma6.png" afterPath="$PROJECT_DIR$/Lenovo/images/yanzhengma6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/yanzhengma7.png" afterPath="$PROJECT_DIR$/Lenovo/images/yanzhengma7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/yanzhengma8.png" afterPath="$PROJECT_DIR$/Lenovo/images/yanzhengma8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/yanzhengma9.png" afterPath="$PROJECT_DIR$/Lenovo/images/yanzhengma9.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/zfb.png" afterPath="$PROJECT_DIR$/Lenovo/images/zfb.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/images/张天爱.jpg" afterPath="$PROJECT_DIR$/Lenovo/images/张天爱.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/index.html" afterPath="$PROJECT_DIR$/Lenovo/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/js/content.js" afterPath="$PROJECT_DIR$/Lenovo/js/content.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/js/foot.js" afterPath="$PROJECT_DIR$/Lenovo/js/foot.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/js/header.js" afterPath="$PROJECT_DIR$/Lenovo/js/header.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/js/jquery-3.1.0.js" afterPath="$PROJECT_DIR$/Lenovo/js/jquery-3.1.0.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/仿联想商城/js/register_login.js" afterPath="$PROJECT_DIR$/Lenovo/js/register_login.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/哔哩哔哩菜单按钮/images/anim-app.png" afterPath="$PROJECT_DIR$/button/images/anim-app.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/哔哩哔哩菜单按钮/images/anim-coin.png" afterPath="$PROJECT_DIR$/button/images/anim-coin.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/哔哩哔哩菜单按钮/images/anim-fav.png" afterPath="$PROJECT_DIR$/button/images/anim-fav.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/哔哩哔哩菜单按钮/images/anim-share.png" afterPath="$PROJECT_DIR$/button/images/anim-share.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/哔哩哔哩菜单按钮/index.css" afterPath="$PROJECT_DIR$/button/index.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/哔哩哔哩菜单按钮/index.html" afterPath="$PROJECT_DIR$/button/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/瀑布流/images/1.jpg" afterPath="$PROJECT_DIR$/waterFull/images/1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/瀑布流/images/10.jpg" afterPath="$PROJECT_DIR$/waterFull/images/10.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/瀑布流/images/11.jpg" afterPath="$PROJECT_DIR$/waterFull/images/11.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/瀑布流/images/12.jpg" afterPath="$PROJECT_DIR$/waterFull/images/12.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/瀑布流/images/13.jpg" afterPath="$PROJECT_DIR$/waterFull/images/13.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/瀑布流/images/14.jpg" afterPath="$PROJECT_DIR$/waterFull/images/14.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/瀑布流/images/15.jpg" afterPath="$PROJECT_DIR$/waterFull/images/15.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/瀑布流/images/16.jpg" afterPath="$PROJECT_DIR$/waterFull/images/16.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/瀑布流/images/17.jpg" afterPath="$PROJECT_DIR$/waterFull/images/17.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/瀑布流/images/18.jpg" afterPath="$PROJECT_DIR$/waterFull/images/18.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/瀑布流/images/19.jpg" afterPath="$PROJECT_DIR$/waterFull/images/19.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/瀑布流/images/2.jpg" afterPath="$PROJECT_DIR$/waterFull/images/2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/瀑布流/images/20.jpg" afterPath="$PROJECT_DIR$/waterFull/images/20.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/瀑布流/images/3.jpg" afterPath="$PROJECT_DIR$/waterFull/images/3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/瀑布流/images/4.jpg" afterPath="$PROJECT_DIR$/waterFull/images/4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/瀑布流/images/5.jpg" afterPath="$PROJECT_DIR$/waterFull/images/5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/瀑布流/images/6.jpg" afterPath="$PROJECT_DIR$/waterFull/images/6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/瀑布流/images/7.jpg" afterPath="$PROJECT_DIR$/waterFull/images/7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/瀑布流/images/8.jpg" afterPath="$PROJECT_DIR$/waterFull/images/8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/瀑布流/images/9.jpg" afterPath="$PROJECT_DIR$/waterFull/images/9.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/瀑布流/index.html" afterPath="$PROJECT_DIR$/waterFull/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/瀑布流/wfs.js" afterPath="$PROJECT_DIR$/waterFull/wfs.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/登录框/imgs/bg.png" afterPath="$PROJECT_DIR$/Login/imgs/bg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/登录框/imgs/font.png" afterPath="$PROJECT_DIR$/Login/imgs/font.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/登录框/imgs/login_bg.png" afterPath="$PROJECT_DIR$/Login/imgs/login_bg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/登录框/login.html" afterPath="$PROJECT_DIR$/Login/login.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/登录框/main.css" afterPath="$PROJECT_DIR$/Login/main.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/网页简历/aresume.css" afterPath="$PROJECT_DIR$/resume/aresume.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/网页简历/aresume.html" afterPath="$PROJECT_DIR$/resume/aresume.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/网页简历/images/1.png" afterPath="$PROJECT_DIR$/resume/images/1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/网页简历/images/2.png" afterPath="$PROJECT_DIR$/resume/images/2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/网页简历/images/3.png" afterPath="$PROJECT_DIR$/resume/images/3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/网页简历/images/4.png" afterPath="$PROJECT_DIR$/resume/images/4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/网页简历/images/5-1.png" afterPath="$PROJECT_DIR$/resume/images/5-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/网页简历/images/5.png" afterPath="$PROJECT_DIR$/resume/images/5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/网页简历/images/6.png" afterPath="$PROJECT_DIR$/resume/images/6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/网页简历/images/7.png" afterPath="$PROJECT_DIR$/resume/images/7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/网页简历/images/bgi1.jpg" afterPath="$PROJECT_DIR$/resume/images/bgi1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/网页简历/images/mo.png" afterPath="$PROJECT_DIR$/resume/images/mo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/网页简历/images/project-apple.png" afterPath="$PROJECT_DIR$/resume/images/project-apple.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/网页简历/images/project-cal.jpg" afterPath="$PROJECT_DIR$/resume/images/project-cal.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/网页简历/images/project-fullpage.png" afterPath="$PROJECT_DIR$/resume/images/project-fullpage.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/网页简历/images/project-jd.png" afterPath="$PROJECT_DIR$/resume/images/project-jd.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/网页简历/images/project-lazy.png" afterPath="$PROJECT_DIR$/resume/images/project-lazy.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/网页简历/images/project-login.png" afterPath="$PROJECT_DIR$/resume/images/project-login.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/网页简历/images/project-music.png" afterPath="$PROJECT_DIR$/resume/images/project-music.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/网页简历/images/project-slide.png" afterPath="$PROJECT_DIR$/resume/images/project-slide.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/网页简历/images/sun.jpg" afterPath="$PROJECT_DIR$/resume/images/sun.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/计算器/index.css" afterPath="$PROJECT_DIR$/Calculator/index.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/计算器/index.html" afterPath="$PROJECT_DIR$/Calculator/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/app.css" afterPath="$PROJECT_DIR$/DBMovie/app.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/app.js" afterPath="$PROJECT_DIR$/DBMovie/app.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/images/wen.jpg" afterPath="$PROJECT_DIR$/DBMovie/images/wen.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/index.html" afterPath="$PROJECT_DIR$/DBMovie/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/angular-bootstrap/README.md" afterPath="$PROJECT_DIR$/DBMovie/libs/angular-bootstrap/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/angular-bootstrap/bower.json" afterPath="$PROJECT_DIR$/DBMovie/libs/angular-bootstrap/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/angular-bootstrap/index.js" afterPath="$PROJECT_DIR$/DBMovie/libs/angular-bootstrap/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/angular-bootstrap/package.json" afterPath="$PROJECT_DIR$/DBMovie/libs/angular-bootstrap/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/angular-bootstrap/ui-bootstrap-csp.css" afterPath="$PROJECT_DIR$/DBMovie/libs/angular-bootstrap/ui-bootstrap-csp.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/angular-bootstrap/ui-bootstrap-tpls.js" afterPath="$PROJECT_DIR$/DBMovie/libs/angular-bootstrap/ui-bootstrap-tpls.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/angular-bootstrap/ui-bootstrap-tpls.min.js" afterPath="$PROJECT_DIR$/DBMovie/libs/angular-bootstrap/ui-bootstrap-tpls.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/angular-bootstrap/ui-bootstrap.js" afterPath="$PROJECT_DIR$/DBMovie/libs/angular-bootstrap/ui-bootstrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/angular-bootstrap/ui-bootstrap.min.js" afterPath="$PROJECT_DIR$/DBMovie/libs/angular-bootstrap/ui-bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/angular-route/README.md" afterPath="$PROJECT_DIR$/DBMovie/libs/angular-route/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/angular-route/angular-route.js" afterPath="$PROJECT_DIR$/DBMovie/libs/angular-route/angular-route.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/angular-route/angular-route.min.js" afterPath="$PROJECT_DIR$/DBMovie/libs/angular-route/angular-route.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/angular-route/angular-route.min.js.map" afterPath="$PROJECT_DIR$/DBMovie/libs/angular-route/angular-route.min.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/angular-route/bower.json" afterPath="$PROJECT_DIR$/DBMovie/libs/angular-route/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/angular-route/index.js" afterPath="$PROJECT_DIR$/DBMovie/libs/angular-route/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/angular-route/package.json" afterPath="$PROJECT_DIR$/DBMovie/libs/angular-route/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/angular/README.md" afterPath="$PROJECT_DIR$/DBMovie/libs/angular/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/angular/angular-csp.css" afterPath="$PROJECT_DIR$/DBMovie/libs/angular/angular-csp.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/angular/angular.js" afterPath="$PROJECT_DIR$/DBMovie/libs/angular/angular.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/angular/angular.min.js" afterPath="$PROJECT_DIR$/DBMovie/libs/angular/angular.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/angular/angular.min.js.gzip" afterPath="$PROJECT_DIR$/DBMovie/libs/angular/angular.min.js.gzip" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/angular/angular.min.js.map" afterPath="$PROJECT_DIR$/DBMovie/libs/angular/angular.min.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/angular/bower.json" afterPath="$PROJECT_DIR$/DBMovie/libs/angular/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/angular/index.js" afterPath="$PROJECT_DIR$/DBMovie/libs/angular/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/angular/package.json" afterPath="$PROJECT_DIR$/DBMovie/libs/angular/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/CHANGELOG.md" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/CHANGELOG.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/Gruntfile.js" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/Gruntfile.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/LICENSE" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/README.md" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/bower.json" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/grunt/bs-commonjs-generator.js" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/grunt/bs-commonjs-generator.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/grunt/bs-glyphicons-data-generator.js" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/grunt/bs-glyphicons-data-generator.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/grunt/bs-lessdoc-parser.js" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/grunt/bs-lessdoc-parser.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/grunt/bs-raw-files-generator.js" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/grunt/bs-raw-files-generator.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/grunt/configBridge.json" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/grunt/configBridge.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/grunt/sauce_browsers.yml" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/grunt/sauce_browsers.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/js/affix.js" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/js/affix.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/js/alert.js" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/js/alert.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/js/button.js" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/js/button.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/js/carousel.js" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/js/carousel.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/js/collapse.js" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/js/collapse.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/js/dropdown.js" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/js/dropdown.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/js/modal.js" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/js/modal.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/js/popover.js" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/js/popover.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/js/scrollspy.js" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/js/scrollspy.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/js/tab.js" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/js/tab.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/js/tooltip.js" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/js/tooltip.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/js/transition.js" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/js/transition.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/alerts.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/alerts.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/badges.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/badges.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/bootstrap.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/bootstrap.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/breadcrumbs.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/breadcrumbs.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/button-groups.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/button-groups.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/buttons.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/buttons.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/carousel.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/carousel.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/close.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/close.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/code.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/code.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/component-animations.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/component-animations.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/dropdowns.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/dropdowns.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/forms.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/forms.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/glyphicons.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/glyphicons.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/grid.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/grid.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/input-groups.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/input-groups.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/jumbotron.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/jumbotron.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/labels.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/labels.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/list-group.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/list-group.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/media.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/media.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/alerts.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/alerts.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/background-variant.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/background-variant.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/border-radius.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/border-radius.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/buttons.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/buttons.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/center-block.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/center-block.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/clearfix.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/clearfix.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/forms.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/forms.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/gradients.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/gradients.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/grid-framework.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/grid-framework.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/grid.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/grid.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/hide-text.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/hide-text.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/image.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/image.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/labels.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/labels.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/list-group.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/list-group.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/nav-divider.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/nav-divider.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/nav-vertical-align.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/nav-vertical-align.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/opacity.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/opacity.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/pagination.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/pagination.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/panels.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/panels.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/progress-bar.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/progress-bar.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/reset-filter.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/reset-filter.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/reset-text.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/reset-text.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/resize.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/resize.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/responsive-visibility.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/responsive-visibility.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/size.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/size.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/tab-focus.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/tab-focus.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/table-row.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/table-row.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/text-emphasis.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/text-emphasis.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/text-overflow.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/text-overflow.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/mixins/vendor-prefixes.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/mixins/vendor-prefixes.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/modals.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/modals.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/navbar.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/navbar.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/navs.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/navs.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/normalize.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/normalize.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/pager.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/pager.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/pagination.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/pagination.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/panels.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/panels.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/popovers.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/popovers.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/print.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/print.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/progress-bars.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/progress-bars.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/responsive-embed.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/responsive-embed.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/responsive-utilities.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/responsive-utilities.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/scaffolding.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/scaffolding.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/tables.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/tables.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/theme.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/theme.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/thumbnails.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/thumbnails.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/tooltip.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/tooltip.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/type.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/type.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/utilities.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/utilities.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/variables.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/variables.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/less/wells.less" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/less/wells.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/nuget/MyGet.ps1" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/nuget/MyGet.ps1" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/nuget/bootstrap.less.nuspec" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/nuget/bootstrap.less.nuspec" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/nuget/bootstrap.nuspec" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/nuget/bootstrap.nuspec" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/package.js" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/package.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/libs/bootstrap/package.json" afterPath="$PROJECT_DIR$/DBMovie/libs/bootstrap/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/movie/movie-detail-controller.js" afterPath="$PROJECT_DIR$/DBMovie/movie/movie-detail-controller.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/movie/movie-detail.html" afterPath="$PROJECT_DIR$/DBMovie/movie/movie-detail.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/movie/movie-list-controller.js" afterPath="$PROJECT_DIR$/DBMovie/movie/movie-list-controller.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/豆瓣电影/movie/movie-list.html" afterPath="$PROJECT_DIR$/DBMovie/movie/movie-list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume/aresume.html" afterPath="$PROJECT_DIR$/resume/aresume.html" />
     </list>
     <ignored path="个人网页.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -696,11 +41,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="26">
               <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aresume.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resume/aresume.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="817">
+              <caret line="131" column="51" lean-forward="false" selection-start-line="131" selection-start-column="51" selection-end-line="131" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -816,6 +171,7 @@
         <option value="$PROJECT_DIR$/网页简历/aresume.html" />
         <option value="$PROJECT_DIR$/登录框/dangdang/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/resume/aresume.html" />
       </list>
     </option>
   </component>
@@ -886,63 +242,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Login" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="个人网页" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="githun.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lenovo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="个人网页" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="githun.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="个人网页" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="githun.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="clock" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="个人网页" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="githun.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="button" />
+              <option name="myItemId" value="resume" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1072,7 +372,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1512000" />
+    <option name="totallyTimeSpent" value="2028000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -1402,22 +702,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resume/aresume.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3848">
-          <caret line="150" column="109" lean-forward="false" selection-start-line="150" selection-start-column="109" selection-end-line="150" selection-end-column="109" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#li#6;n#ul#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#0;n#ul#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Login/dangdang/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
@@ -1478,6 +762,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-169">
@@ -1491,10 +783,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/resume/aresume.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        <state relative-caret-position="817">
+          <caret line="131" column="51" lean-forward="false" selection-start-line="131" selection-start-column="51" selection-end-line="131" selection-end-column="51" />
           <folding />
         </state>
       </provider>
