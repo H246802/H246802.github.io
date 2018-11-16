@@ -160,12 +160,12 @@ body{
   margin-bottom: 6px;
 }
 #paper h3 {
-  display: inline-block;
+  display: block;
   font-size: 16px;
   margin: 6px 0;
 }
 #paper h4 {
-  display: inline-block;
+  display: block;
   font-size: 14px;
   margin: 3px 0;
 }
@@ -227,7 +227,7 @@ body{
               window.clearInterval(time)
               resolve && resolve()
             }
-          }, 0)
+          }, 20)
         })
       }
     })(),
@@ -257,7 +257,7 @@ body{
                 clearInterval(time)
                 resolve && resolve()
               }
-            }, 0)
+            }, 20)
           }
         })
       }
