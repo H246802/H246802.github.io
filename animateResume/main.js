@@ -257,7 +257,7 @@ body{
                 clearInterval(time)
                 resolve && resolve()
               }
-            }, 20)
+            }, 0)
           }
         })
       }
